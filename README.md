@@ -1,9 +1,13 @@
 # 💫 About Me:
 
 💻 Aspiring Software Developer passionate about building modern web applications
+
 🧠 Currently learning Full Stack Development and problem-solving
+
 🚀 Exploring React, Node.js, JavaScript, and backend development
+
 📚 Preparing for BCA while consistently improving coding skills
+
 📍 Based in India and building projects while learning in public
 
 🔔 Follow my journey as I learn, build, and grow in tech
@@ -29,9 +33,13 @@
 # 🎯 Goals:
 
 ⤷ Become a skilled Software Developer
+
 ⤷ Build real-world full stack projects
+
 ⤷ Learn DSA and strengthen problem-solving
+
 ⤷ Get internships and placement opportunities
+
 ⤷ Work at top tech companies in the future
 
 # 📊 GitHub Stats:
